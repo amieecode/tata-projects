@@ -1,6 +1,6 @@
 # Tata Data Analytics Project Documentation
 
-##Project Overview
+## Project Overview
 The Tata online retail store engaged me as a data consultant to analyze their sales data and provide actionable insights. The goal of the project was to:
 - Review business performance and revenue trends
 - Identify top-performing customers and countries
