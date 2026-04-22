@@ -27,10 +27,12 @@ These steps ensured all subsequent analysis was accurate and reliable.
 
 ## Business Recommendations
 - **Seasonal Planning:** Focus on Q4 for inventory, staffing, and marketing campaigns.
-- **Customer Retention:** Implement loyalty programs for top 10 revenue-generating customers.
-- **International Expansion:** Prioritize Netherlands, EIRE, Germany, France, and Australia for growth.
+- **Customer Retention:** Implement loyalty programs for the top 10 revenue-generating customers.
+- **International Expansion:** Prioritize the Netherlands, EIRE, Germany, France, and Australia for growth.
 
 ## Conclusion
 This project demonstrates the ability to clean, transform, and analyze transactional retail data to deliver actionable business insights. The analysis provides a clear roadmap for marketing, operations, and expansion strategies, supporting executive decision-making for Tata’s online retail business.
 
 Data-Driven Strategy: Use monthly revenue trends and product demand insights to forecast and plan effectively.
+
+![Certification](https://github.com/amieecode/tata-projects/blob/main/Task%204%20-%20Project%20Presentation/certificate.png)
